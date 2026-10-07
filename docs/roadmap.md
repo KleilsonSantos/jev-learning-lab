@@ -10,6 +10,8 @@ Workspace → Git → GitHub CLI → Repositório → README → Issue inicial
 
 **Critério:** repo público versionado, docs base, Issue LAB-001.
 
+**Status:** concluído em 2026-10-07 — Issue [#1](https://github.com/KleilsonSantos/jev-learning-lab/issues/1) fechada.
+
 ## Nível 2 — Hello Jev
 
 ```text

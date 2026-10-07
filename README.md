@@ -51,7 +51,7 @@ Prioridade: **clareza → simplicidade → evidência → experimentação → d
 
 | Nível | Descrição | Status |
 | --- | --- | --- |
-| 1 | Repository Bootstrap | em andamento |
+| 1 | Repository Bootstrap | concluído ([#1](https://github.com/KleilsonSantos/jev-learning-lab/issues/1)) |
 | 2 | Hello Jev (menor chamada funcional) | pendente |
 | 3 | Conceitos fundamentais | pendente |
 | 4+ | Configuração, experimentos, integração | futuro |
